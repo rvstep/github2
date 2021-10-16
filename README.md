@@ -4,7 +4,6 @@ git remote set-url origin https://rymar3:TOKEN@github.com/rymar3/rymar3.github.i
 
 ## 01. Прописуємо данні про себе щоб автори проекта знали хто вносив зміни 
 	електронна пошта повинна бути зареєстрована в github !!!
-	git config --global user.name "Rymar Viktor"
 	git config --global user.email "rymar@ukr.net"
 	
 ## 02. Клонуємо сайт на свій комп
