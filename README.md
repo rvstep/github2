@@ -9,7 +9,7 @@ git remote set-url origin https://rymar3:TOKEN@github.com/rymar3/rymar3.github.i
 ## 02. Клонуємо сайт на свій комп
 	cd c:\intel
 	git clone https://github.com/rymar3/rymar3.github.io.git
-	cd rymar3.github.io.git
+	cd rymar3.github.io
 
 ## 03. 	Створюємо нову вітку:
 		git branch site
