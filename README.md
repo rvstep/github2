@@ -18,7 +18,7 @@ git remote set-url origin https://rymar3:TOKEN@github.com/rymar3/rymar3.github.i
 ## 05.   Робимо зміни на сайті
 		=== --- === --- === --- === --- === --- === --- 
 ## 06.  Проводимо індексацію змінених файлів
-	 git add index.html
+	 git add .
 
 ## 07.  Вносимо зміни в репозитарій:
 	git commit -m "Римар В.О. - 03-Добавив заголовок"
